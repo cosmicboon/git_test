@@ -5,7 +5,11 @@
 			<h1>Git</h1>
 		</header>
 		<ul>
+<<<<<<< HEAD
 			<li>branch</>
+=======
+			<li>브랜치</>
+>>>>>>> 리스트 브랜치 추가
 		</ul>
 	<body>
 </html>
