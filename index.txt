@@ -1,12 +1,22 @@
 <html>
+<<<<<<< HEAD
 
+=======
+	<head>
+		<title>git소개</title>
+	</head>
+>>>>>>> 실험
 	<body>
 		<header>
 			<h1>Git</h1>
 		</header>
+<<<<<<< HEAD
 		<ul>
 			<li>저장소</li>
 			<li>버전</li>
 		</ul>
+=======
+
+>>>>>>> 실험
 	<body>
 </html>
