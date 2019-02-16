@@ -15,6 +15,7 @@
 			<li>원격저장소</>
 			<li>test2</>
 			<li>test3</>
+			<li> v1</>
 		</ul>
 	<body>
 </html>
